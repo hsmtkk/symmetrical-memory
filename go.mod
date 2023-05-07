@@ -3,8 +3,8 @@ module github.com/hsmtkk/symmetrical-memory
 go 1.18
 
 require (
-	github.com/spf13/cobra v1.6.1
-	golang.org/x/image v0.2.0
+	github.com/spf13/cobra v1.7.0
+	golang.org/x/image v0.7.0
 )
 
 require (
